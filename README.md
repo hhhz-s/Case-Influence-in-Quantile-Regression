@@ -4,7 +4,7 @@
 Cross validation for penalized quantile regression with a case-weight adjusted solution path
 
 ## Introduction:
-This archive contains the R codes to reproduce figures and tables for the King County Housing Data Analysis (Section 5) in the [paper(v2)](https://arxiv.org/abs/1902.07770)
+This archive contains the R codes to reproduce figures and tables for the King County Housing Data Analysis (Section 5) in the [paper(v2)](https://arxiv.org/abs/1902.07770) using the R package [NonsmoothPath](https://github.com/qiuyu1995/NonsmoothPath}).
 
 ## List of files: 
 ### Data: 
