@@ -9,7 +9,7 @@ This archive contains the R codes to reproduce figures and tables for the King C
 ## List of files: 
 ### Data: 
 - input.RData: contains the [King County house sales data](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction) preprocessed by data_preprocess.R
-- data_preprocess.R: code to pre-process the data by Bo, Luan
+- data_preprocess.R: code to pre-process the data by Bo Luan
 - EDA_sample.R: EDA for a subset of the King County house sales data in Fig 14
   
 ### Single variable QR: 
