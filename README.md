@@ -24,4 +24,5 @@ This archive contains the R codes to reproduce figures and tables for the King C
 - case_influence_graph_multi.R: code for Fig 13
 - loo_analysis_multi: code for Tables 6 to 8
 
+## Usage:
 Specify the working directory and install the required packages in R to reproduce the figures. 
