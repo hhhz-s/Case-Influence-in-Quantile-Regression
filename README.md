@@ -19,7 +19,6 @@ This archive contains the R codes to reproduce figures and tables for the King C
 - case_influence_graph_single.R: code for Fig 15
 
 ### Multi-variable QR:
-- helper.R: customized helper functions for quantile regression
 - loo_influ_residual_leverage_multi.R: code for Fig 12
 - case_influence_graph_multi.R: code for Fig 13
 - loo_analysis_multi: code for Tables 6 to 8
